@@ -10,18 +10,18 @@
   translation: "A portfolio of Takehiro Imamura."
 
 - id: "language"
-  translation: "Language"
+  translation: "言語"
 
 ## Homepage head title
 - id: "head_title"
   translation: "takehiro-imamura.portfolio"
 
 - id: "head_description"
-  translation: "This is the portfolio of takehiro imamura. Enjoy!"
+  translation: "ここは今村剛大のポートフォリオです。"
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Takehiro Imamura"
+  translation: "今村 剛大"
 
 - id: "showcase_subtitle"
   translation: ""
@@ -29,29 +29,29 @@
 - id: "showcase_description"
   translation: "
     <p class='lead'>
-      Hello! Welcome to my portfolio website!
+      ようこそ、私のポートフォリオへ!
       <br>
-      I'm Takehiro Imamura, a first grade master students at Nagoya University, Japan.
+      名古屋大学大学院情報学研究科知能システム学専攻1年生の今村剛大です。
       <br>
       <br>
-      <u>Research Field</u>
+      <u>研究分野</u>
       <br>
-      Machine Learning, Deep Learning, Music Information Retrieval (MIR), Audio-Video Multi-Modal Model
+      機械学習, 深層学習, 音楽情報処理 (MIR), 音響-動画 マルチモーダルAI
       <br>
-      <u>Affiliation</u>
+      <u>所属</u>
       <br>
-      <a target='_blank' href='https://www.toda.is.i.nagoya-u.ac.jp/index.html'>Toda Lab</a>, Nagoya University, Japan
+      <a target='_blank' href='https://www.toda.is.i.nagoya-u.ac.jp/index.html'>戸田研究室</a>, 名古屋大学, 日本
       <br>
-      <u>BirthPlace</u>
+      <u>出身地</u>
       <br>
-      Gifu, Japan
+      岐阜県各務原市
       <br>
-      <u>BirthDay</u>
+      <u>誕生日</u>
       <br>
       2001/09/28
     </p>
     <p class='lead'>
-      I hope you enjoy my portfolio!
+      お気軽にご連絡ください!
     </p>
     "
 
@@ -64,53 +64,54 @@
 
 ## Homepage about
 - id: "about_title"
-  translation: "Skills"
+  translation: "技術について"
 
 - id: "about_content"
   translation:  
     <p class="lead">
-      <u>Langage</u>
+      <u>言語</u>
       <br>
-      Japanese (Native), English (Intermediate, TOEIC Score = 745)</li>
+      日本語 (ネイティブ), 英語 (ビジネスレベル, TOEIC 745点)</li>
       <br>
-      <u>Programming Skills</u>
+      <u>プログラミングスキル</u>
       <br>
-      Python, C++, HTML/CSS, SQL, R, Shell Script, etc.
+      Python, C++, HTML/CSS, SQL, R, Shell Scriptなど.
       <a target='_blank' href='https://atcoder.jp/users/imatake'>AtCoder</a>
       <br>
-      <u>Certification</u>
+      <u>資格</u>
       <br>
-      Applied Information Technology Engineer Examination (AP), 2024
+      応用情報技術者試験 合格, 2024
     </p>
 
 - id: "about_button"
-  translation: "Skills"
+  translation: "About Me"
 
 ## Homepage education
 - id: "education_title"
-  translation: "Education"
+  translation: "学歴"
 
 ## Homepage experience
 - id: "experience_title"
-  translation: "Experience"
+  translation: "職歴"
 
 - id: "experience_description"
-  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+  translation: "インターンシップ、アルバイト等について"
 
 - id: "experience_button"
   translation: "LinkedIn" 
 
 - id: "experience_button_url"
-  translation: "https://www.linkedin.com/in/adrianmoreno/"
+  translation: ""
 
 - id: "experience_button2"
   translation: "Download resume"
 
 - id: "experience_button2_url"
-  translation: "/img/general/user-smile-fill.svg"
+  # translation: "/img/general/user-smile-fill.svg"
+  translation: ""
 
 - id: "experience_button3"
-  translation: "View all"
+  translation: "すべてを見る"
 
 - id: "experience_button3_url"
   translation: "/experience"
@@ -140,44 +141,44 @@
 
 ## Homepage testimonials
 - id: "testimonials_title"
-  translation: "Articles"
+  translation: "論文"
 
 ## Homepage contact
 - id: "contact_title"
   translation: "Contact"
 
 - id: "contact_button"
-  translation: "Send message"
+  translation: "メッセージを送る"
 
 - id: "contact_form_name"
-  translation: "Full Name"
+  translation: "名前"
 
 - id: "contact_form_email"
-  translation: "Email Address"
+  translation: "メールアドレス"
 
 - id: "contact_form_message"
-  translation: "Type Your Message Here"
+  translation: "メッセージを入力してください"
 
 - id: "contact_phone_title"
-  translation: "Phone Number"
+  translation: "電話番号"
 
 - id: "contact_phone_number"
-  translation: "not available"
+  translation: "非公開"
 
 - id: "contact_email_title"
-  translation: "Email"
+  translation: "メールアドレス"
 
 - id: "contact_email_email"
   translation: '<a href="mailto:imamura.takehiro@g.sp.m.is.nagoya-u.ac.jp">imamura.takehiro@g.sp.m.is.nagoya-u.ac.jp</a>'
 
 - id: "contact_address_title"
-  translation: "Address"
+  translation: "住所"
 
 - id: "contact_address_address"
-  translation: "See <a target='_blank' href='https://www.toda.is.i.nagoya-u.ac.jp/index.html'>Toda Lab website</a>"
+  translation: "<a target='_blank' href='https://www.toda.is.i.nagoya-u.ac.jp/index.html'>戸田研ウェブサイト</a>を参照"
 
 - id: "contact_button"
-  translation: "Send Message"
+  translation: "メッセージを送る"
 
 ## Blog
 - id: "read_more"
