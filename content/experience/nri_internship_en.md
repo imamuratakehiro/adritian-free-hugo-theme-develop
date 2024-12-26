@@ -9,5 +9,3 @@ duration: "2024/12 - 2024/12"
 
 ---
 ### Experiencing the Prompt Engineering.
-
-The beginning of a great career. 

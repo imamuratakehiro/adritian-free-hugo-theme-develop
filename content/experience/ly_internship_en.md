@@ -10,5 +10,4 @@ duration: "2024/08 - 2024/10"
 ---
 ### Experiencing the Research about Audio-Video Multi-Modal.
 
-The beginning of a great career. 
 - Menter: Tatsuya Komatsu, Taichi Nishimura

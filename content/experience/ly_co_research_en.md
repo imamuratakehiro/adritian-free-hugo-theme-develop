@@ -8,7 +8,6 @@ location: "Tokyo, Japan"
 duration: "2024/10 - Now"
 
 ---
-### Experiencing the Research about Audio-Video Multi-Modal.
+### The project is processing...
 
-The beginning of a great career. 
 - Menter: Tatsuya Komatsu, Taichi Nishimura
